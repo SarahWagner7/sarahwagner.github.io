@@ -5,8 +5,8 @@ Portfolio de Sarah Wagner, étudiante en BTS SIO
 1. Mettre en oeuvre les technologies web pour crée et héberger mon portfolio
 
 
-<img src ="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" width="200"/> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="130"/> 
-<img src ="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="150"/> <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="150"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="200"/> <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200"/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="125"/> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="150"/> 
+<img src ="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="165"/> <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="150"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="200"/> <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="150"/>
 
 
 - **NetBeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
