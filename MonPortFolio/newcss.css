@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 9 déc. 2022, 11:07:09
+    Author     : sarah.wagner
+*/
+
+img {
+    float: left;
+    margin-right : 10px
+}
+
+.jumbotron{
+    padding-bottom: 50px !important;
+}
